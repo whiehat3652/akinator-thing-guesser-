@@ -1,0 +1,94 @@
+body
+{
+font-family: 'Staatliches', cursive;
+background: skyblue;
+}
+.header_div
+{
+background: snow;
+color: black;
+}
+.header_div img
+{
+    width: 100px;
+}
+.main_div
+{
+    background: brown;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid brown;
+}
+.main_div label
+{
+    font-family: 'Potta One', cursive;
+    background: aliceblue;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px darkred;
+}
+#camera
+{
+    border: 2px solid red;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px darkred;
+}
+.main_div button
+{
+    font-family: 'Indie Flower', cursive;
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px grey;
+    border: 1px solid;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background: brown;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px darkred;
+}
+.footer_div img
+{
+    width: 70px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+#webcam
+{
+    font-size: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+#snapshot
+{
+    font-size: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+#button_webcam
+{
+    font-size: 20px;
+    font-family: 'Aclonica', sans-serif;
+}
+#button_snapshot
+{
+    font-size: 20px;
+    font-family: 'Aclonica', sans-serif;
+}
+#copy_right
+{
+    font-size: 20px;
+}
